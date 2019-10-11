@@ -1,4 +1,4 @@
-﻿+++
++++
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
@@ -24,8 +24,16 @@ weight = 60
 #### Madeline Bauer
 
 
-#### Maricela Cruz
+#### Stacey Borrego
 
 
-#### Aparna Shastry
+#### Liliana Clementino
 
+
+#### Eric Sponberg
+
+
+#### Dennie Cheng
+
+
+#### Samara Miramontes

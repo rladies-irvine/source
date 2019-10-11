@@ -37,7 +37,7 @@ weight = 5
 
 R-Ladies Irvine is part of a world-wide organization to promote gender diversity in the R community. We aspire to encourage and support women interested in learning and sharing their experience in R programming by hosting a variety of events including talks, workshops, and socials. 
 
-Anyone with an interest in R is welcome - beginners, experts and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R! 
+Anyone with an interest in R is welcome - beginners, experts, and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R! 
 
 Join the R-Ladies Irvine [Slack workspace](http://bit.ly/rladies-irvine-slack)! Email us at [irvine@rladies.org](mailto:irvine@rladies.org). Then check back here or visit our [Meetup page](https://www.meetup.com/rladies-irvine/) for event details.
 
