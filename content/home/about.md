@@ -43,4 +43,9 @@ Join the R-Ladies Irvine [Slack workspace](https://socalrug.herokuapp.com/)! Ema
 
 For more information about R-Ladies Global, visit [rladies.org](http://rladies.org/).
 
+## Sponsors
 
+| | | | | |
+|------|------|------|------|------|
+| <a href="https://nasa.gov/"><img src="/img/nasalogo.jpg" width="100" height="100" /></a> | <a href="https://open.nasa.gov/explore/datanauts/"><img src="/img/nasadatanauts.png" width="100" height="100" /></a> | <a href="https://peoplespace.us/"><img src="/img/peoplespace.jpg" width="100" height="100" /></a> | <a href="https://uci.edu/"><img src="/img/ucirvine.jpg" width="100" height="100" /></a> | <a href="https://datascience.uci.edu/"><img src="/img/ucidatascience.jpg" width="100" /></a> |
+| <a href="https://www.r-consortium.org/"><img src="/img/rconsortium_test.png" width="100" height="100" /></a> | <a href="https://forwards.github.io/"><img src="/img/rforwards.png" width="100" height="100" /></a> | <a href="https://developer.microsoft.com/en-us/advocates/"><img src="/img/microsoftdevadvocates.jpg" width="100" height="100" /></a> | <a href="https://www.microsoft.com/"><img src="/img/microsoft.jpg" width="100" height="100" /></a> | |
