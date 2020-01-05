@@ -39,7 +39,7 @@ R-Ladies Irvine is part of a world-wide organization to promote gender diversity
 
 Anyone with an interest in R is welcome - beginners, experts, and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R! 
 
-Join the R-Ladies Irvine [Slack workspace](http://bit.ly/rladies-irvine-slack)! Email us at [irvine@rladies.org](mailto:irvine@rladies.org). Then check back here or visit our [Meetup page](https://www.meetup.com/rladies-irvine/) for event details.
+Join the R-Ladies Irvine [Slack workspace](https://socalrug.herokuapp.com/)! Email us at [irvine@rladies.org](mailto:irvine@rladies.org). Then check back here or visit our [Meetup page](https://www.meetup.com/rladies-irvine/) for event details.
 
 For more information about R-Ladies Global, visit [rladies.org](http://rladies.org/).
 

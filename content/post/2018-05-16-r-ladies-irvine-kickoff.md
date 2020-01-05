@@ -13,23 +13,6 @@ header:
   caption: ''
   image: ''
 ---
-Hi everyone!
 
-Our kickoff meeting will be held from 7 - 8:30pm in Rowland Hall, room 306 (on the 3rd floor)!
-[Here's a helpful map of UC Irvine.](https://communications.uci.edu/documents/pdf/UCI_16_map_campus.pdf)
-
-| Agenda |    |
-|-------------|------------------------|
-| 7:00 - 7:15 | Welcome and Networking |
-| 7:15 - 7:45 | Intro to R-Ladies Irvine + How to Get Involved |
-| 7:45 - 8:15 | Planning Session + Goals for the Group |
-| 8:15 - 8:30 | Networking and Cleanup |
-
-Parking: The closest lots are lots 16, 16H, and 12B. The locations of these lots and others can be found [here.](https://communications.uci.edu/documents/pdf/UCI_12_map_vis_pkg.pdf)
-Note: you’ll have to pay for hourly parking if you park in any of these lots (or you’ll risk a ticket).
-
-Healthy snacks and R cookies will be provided. :)
-
-Visit our [Meetup page](https://www.meetup.com/rladies-irvine/events/249822921/) for more details and to RSVP.
-
-The slides from this meeting have been posted [here.](https://github.com/rladies-irvine/presentations/blob/master/R-LadiesIrvine_Kickoff.pdf)
+<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/rladies-irvine/events/249822921/">R-Ladies Irvine Kickoff!</a></h4><p>Hi everyone! ***Update: since we've had a much larger than expected amount of people RSVP (thank you!), we've had to move our meetup to another location on UC Irvine's campus.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

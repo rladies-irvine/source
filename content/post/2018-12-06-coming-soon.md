@@ -11,7 +11,8 @@ header:
   caption: ''
   image: ''
 ---
-Stay tuned in 2019 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
+
+Stay tuned in 2020 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
 
 Interested in writing a blog post? 
 
