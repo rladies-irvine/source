@@ -13,7 +13,7 @@ publishDir = "../rladies-irvine.github.io"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-156058753-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -222,6 +222,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/rladies-irvine"
+    
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fa"
+    link = "//youtube.com/channel/UCIbS1KNK7jbcbQVNt7lF62A"
 
 
 # Navigation Links
