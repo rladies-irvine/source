@@ -15,25 +15,10 @@ weight = 60
 
 +++
 
-#### Alyssa Columbus
-
-
-#### Linda Palmer
-
-
-#### Madeline Bauer
-
-
-#### Stacey Borrego
-
-
-#### Liliana Clementino
-
-
-#### Eric Sponberg
-
-
-#### Dennie Cheng
-
-
-#### Samara Miramontes
+| | | |
+|------|------|------|
+| ***Founder*** | **Alyssa Columbus** | *2018 - Present* |
+| ***Co-Organizer*** | **Madeline Bauer** | *2018 - Present* |
+| ***Co-Organizer*** | **Linda Palmer** | *2018 - Present* |
+| ***Co-Organizer*** | **Stacey Borrego** | *2019 - Present* |
+| ***Co-Organizer*** | **Liliana Clementino** | *2019 - Present* |
