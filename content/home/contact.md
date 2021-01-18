@@ -23,7 +23,7 @@ autolink = true
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://meetup.us19.list-manage.com/subscribe/post?u=d8de8274235dd948263393e61&amp;id=337a311e87" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://rladiesirvine.us19.list-manage.com/subscribe/post?u=d8de8274235dd948263393e61&amp;id=337a311e87" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to R-Ladies Irvine Updates!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>

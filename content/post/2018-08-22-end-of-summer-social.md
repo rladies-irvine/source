@@ -14,5 +14,4 @@ header:
   image: ''
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/rladies-irvine/events/253008885/">End-Of-Summer Social</a></h4><p>Hi everyone! This month's meeting will be a social at UTC, where we'll socialize, network, and hang out. There will be no formal technical talks at this meeting; instead, this time will be used to network and exchange ideas with fellow R-Ladies.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<div class="card"><a target="_blank" href="https://www.meetup.com/rladies-irvine/events/253008885/"><img onerror="this.style.display='none'" class="card-image" src="https://secure.meetupstatic.com/photos/event/a/7/7/f/600_473082879.jpeg"><div class="card-text"><h3>End-Of-Summer Social</h3><p>Wed, Aug 22, 2018, 7:00 PM: Hi everyone!This month's meeting will be a social at UTC, where we'll socialize, network, and hang out.There will be no formal technical talks at this meeting; instead, thi</p><p class="signup"><b>Embedded From Meetup</b></p></div></a></div>

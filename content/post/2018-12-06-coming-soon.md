@@ -12,8 +12,6 @@ header:
   image: ''
 ---
 
-Stay tuned in 2020 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
+Stay tuned in 2021 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community.
 
-Interested in writing a blog post? 
-
-Contact us at [irvine@rladies.org](mailto:irvine@rladies.org).
+If you're interested in writing a blog post, please contact us at [irvine@rladies.org](mailto:irvine@rladies.org).
