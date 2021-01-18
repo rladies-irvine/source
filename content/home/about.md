@@ -35,17 +35,43 @@ weight = 5
 
 # About
 
-R-Ladies Irvine is part of a world-wide organization to promote gender diversity in the R community. We aspire to encourage and support women interested in learning and sharing their experience in R programming by hosting a variety of events including talks, workshops, and socials. 
+R-Ladies Irvine is the Orange County, California chapter of R-Ladies Global, a worldwide organization dedicated to encouraging and promoting diversity in the R community. Our chapter supports members in their careers by offering networking opportunities, programming tutorials, and career direction at safe and inclusive events. Everyone is welcome to attend our events as long as they follow the [R-Ladies Global Code of Conduct](https://rladies.org/code-of-conduct/).
 
-Anyone with an interest in R is welcome - beginners, experts, and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R! 
 
-Join the R-Ladies Irvine [Slack workspace](https://socalrug.herokuapp.com/)! Email us at [irvine@rladies.org](mailto:irvine@rladies.org). Then check back here or visit our [Meetup page](https://www.meetup.com/rladies-irvine/) for event details.
+To stay in touch, you can join the [SoCal R Users Slack workspace](https://socalrug.herokuapp.com/), our [Meetup group](https://www.meetup.com/rladies-irvine/), and our [email list](https://www.rladiesirvine.org/#contact).
 
-For more information about R-Ladies Global, visit [rladies.org](http://rladies.org/).
 
-## Sponsors
+If you have any questions or would like to volunteer for R-Ladies Irvine, please contact us at [irvine@rladies.org](mailto:irvine@rladies.org).
 
-| | | | | |
-|------|------|------|------|------|
-| <a href="https://nasa.gov/"><img src="/img/nasalogo.jpg" width="100" height="100" /></a> | <a href="https://open.nasa.gov/explore/datanauts/"><img src="/img/nasadatanauts.png" width="100" height="100" /></a> | <a href="https://uci.edu/"><img src="/img/ucirvine.jpg" width="100" height="100" /></a> | <a href="https://datascience.uci.edu/"><img src="/img/ucidatascience.jpg" width="100" /></a> | <a href="https://www.oreilly.com/pub/cpc/322003"><img src="https://www.oreilly.com/partner_file/remote-together-120x90.jpg" /></a> |
-| <a href="https://www.r-consortium.org/"><img src="/img/rconsortium_test.png" width="100" height="100" /></a> | <a href="https://forwards.github.io/"><img src="/img/rforwards.png" width="100" height="100" /></a> | <a href="https://developer.microsoft.com/en-us/advocates/"><img src="/img/microsoftdevadvocates.jpg" width="100" height="100" /></a> | <a href="https://www.microsoft.com/"><img src="/img/microsoft.jpg" width="100" height="100" /></a> | |
+
+<table>
+<tr>
+<th> Sponsors </th>
+<th> Collaborators </th>
+</tr>
+<tr>
+<td>
+
+<ul>
+<li><a href="https://rstudio.com/">RStudio</a></li>
+<li><a href="https://www.r-consortium.org/">R Consortium</a></li>
+<li><a href="https://open.nasa.gov/explore/datanauts/">NASA Datanauts</a></li>
+<li><a href="https://datascience.uci.edu/">University of California, Irvine Data Science Initiative</a></li>
+<li><a href="https://www.oreilly.com/pub/cpc/322003">O'Reilly Media</a></li>
+<li><a href="https://developer.microsoft.com/en-us/advocates/">Microsoft Developer Advocates</a></li>
+</ul>  
+
+</td>
+<td>
+
+<ul>
+<li><a href="https://forwards.github.io/">R Forwards</a></li>
+<li><a href="https://ocrug.org/">OCRUG (Orange County R Users Group)</a></li>
+<li><a href="https://www.meetup.com/Seattle-Women-in-Machine-Learning-and-Data-Science/">Seattle WiMLDS (Women in Machine Learning and Data Science)</a></li>
+<li><a href="https://www.meetup.com/OCLBASA/">OCLB ASA (Orange County/Long Beach Chapter of the American Statistical Association)</a></li>
+<li><a href="https://site.ieee.org/ocs/">IEEE (Institute of Electrical and Electronics Engineers) Orange County Section</a></li>
+</ul> 
+
+</td>
+</tr>
+</table>

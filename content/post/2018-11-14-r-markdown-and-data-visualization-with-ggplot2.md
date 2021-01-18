@@ -16,5 +16,4 @@ header:
   image: ''
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/rladies-irvine/events/255538538/">November 2018 Tutorial: R Markdown and Data Visualization with ggplot2</a></h4><p>Hi everyone! Per your requests, we're going to have a series of Tidyverse tutorials, starting with this one on ggplot2 and R Markdown! Please bring your laptops and have R, RStudio, and the tidyverse package (all open-source and free) installed and working. However, if you're having issues with any of these, don't worry!</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<div class="card"><a target="_blank" href="https://www.meetup.com/rladies-irvine/events/255538538/"><img onerror="this.style.display='none'" class="card-image" src="https://secure.meetupstatic.com/photos/event/b/3/e/7/600_478726055.jpeg"><div class="card-text"><h3>November 2018 Tutorial: R Markdown and Data Visualization with ggplot2</h3><p>Wed, Nov 14, 2018, 6:30 PM: Hi everyone!Per your requests, we're going to have a series of Tidyverse tutorials, starting with this one on ggplot2 and R Markdown!Please bring your laptops and have R, R</p><p class="signup"><b>Embedded From Meetup</b></p></div></a></div>
