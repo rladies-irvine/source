@@ -17,5 +17,4 @@ header:
   preview: yes
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.meetup.com/rladies-irvine/events/267838000/">Sports Statistics, Advancing Your Career in 2020, & R Adoption in the Enterprise</a></h4><p>ScheduleTuesday, March 17th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Scavenger Hunt6:55 - Announcements7:00 - [Career Corner] Advancing Your Career in 2020 & R Adoption in the Enterprise7:20 - 10-Minute Break7:30 - [R Time] A Sports Statistics Show and Tell8:30 - Meeting Adjourned # Meeting LocationUC Irvine Campus.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<div class="card"><a target="_blank" href="https://www.meetup.com/rladies-irvine/events/267838000/"><img onerror="this.style.display='none'" class="card-image" src="https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg"><div class="card-text"><h3>Sports Statistics, Advancing Your Career in 2020, & R Adoption in the Enterprise</h3><p>Tue, Mar 17, 2020, 6:30 PM: # ScheduleTuesday, March 17th, 6:30-8:30pm6:30 - [Online Networking Activity] Zoom Breakout Rooms6:55 - Announcements7:00 - [Career Corner] Advancing Your Career in 2020 &</p><p class="signup"><b>Embedded From Meetup</b></p></div></a></div>
