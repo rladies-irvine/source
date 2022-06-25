@@ -15,10 +15,20 @@ weight = 60
 
 +++
 
-| | | |
-|------|------|------|
-| ***Founder*** | **Alyssa Columbus** | *2018 - Present* |
-| ***Co-Organizer*** | **Madeline Bauer** | *2018 - Present* |
-| ***Co-Organizer*** | **Linda Palmer** | *2018 - Present* |
-| ***Co-Organizer*** | **Stacey Borrego** | *2019 - Present* |
-| ***Co-Organizer*** | **Liliana Clementino** | *2019 - Present* |
+<h3>Current Leadership Team</h3>
+
+|  |  |
+|---|---|
+| Alyssa Columbus (Founder) | Madeline Bauer, PhD |
+| Liliana Clementino | Linda Palmer, PhD |
+
+
+<h3>Alumni and Friends</h3>
+
+|  |  |
+|---|---|
+| Mine Dogucu, PhD | Padhraic Smyth, PhD |
+| Hal Stern, PhD | Stacey Borrego, PhD |
+| Aparna Shastry | Maricela Cruz, PhD |
+| Priya Chauhan | |
+
